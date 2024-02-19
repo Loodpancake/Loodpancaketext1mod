@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Loodpancaketext1 mod.iml" filepath="$PROJECT_DIR$/.idea/Loodpancaketext1 mod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loodtext1_mods.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Loodtext1_mods.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loodtext1_mods.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Loodtext1_mods.test.iml" />
+    </modules>
+  </component>
+</project>
